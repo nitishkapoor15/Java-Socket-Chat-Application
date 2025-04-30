@@ -41,9 +41,6 @@ It demonstrates basic networking concepts including `ServerSocket`, `Socket`, `I
 - The server must be running **before** the client starts.
 - Use `exit` to terminate the chat from either side.
 
-## 📷 Screenshot (Optional)
-
-Add a screenshot here of both terminals communicating if you want.
 
 ## 📚 Learning Outcome
 
